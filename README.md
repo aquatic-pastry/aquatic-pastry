@@ -1,4 +1,6 @@
 # 👋 Hi, I’m Trung Nguyen!
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning why people despise CSS
 - 💞️ I’m looking to collaborate on ...
